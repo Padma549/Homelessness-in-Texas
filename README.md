@@ -1,4 +1,4 @@
-# Texas Homelessness
+# Analysis Of Homelessness In Texas
 Applying Data Analytics and ML Methods to decrease Homelessness
 
 ## Project Structure
